@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ROOM</string>
+    <string name="title_activity_main">Deudor App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_create">Create</string>
+    <string name="nombre">Digite nombre</string>
+    <string name="telefono">Digite número de teléfono</string>
+    <string name="cantidad">Digita cantidad</string>
+    <string name="guardar">Guardar</string>
+    <string name="title_read">Read</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="title_update">Update</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="title_delete">Delete</string>
+    <string name="registro">REGISTRO</string>
+    <string name="email">E-mail</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirme">Confirmar contraseña</string>
+    <string name="nombreR">Nombre completo</string>
+    <string name="cedula">Cedula</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="regi2">REGISTRARSE</string>
+    <string name="app">Deudor App</string>
+    <string name="nombDeu">Nombre Deudor</string>
+    <string name="deuda">Deuda</string>
+    <string name="title_list">List</string>
+</resources>
